@@ -37,6 +37,7 @@ const text_about_me = {
   fontFamily: "Courier New",
   fontSize: 20,
   paddingLeft: 80,
+  width: "75%"
 }
 
 const text_link = {
@@ -62,10 +63,8 @@ const IndexPage = () => {
       <h1 style={text_header}>Building things to last</h1>
       <h2 style={text_name}>Olli Toivanen</h2>
       <div style={view_skills_container}>
-        <a href="https://github.com/ollitoivanen" style={text_skills}>Full Stack Developement →</a>
-        <br/>
-
-        <a href="https://github.com/ollitoivanen" style={text_skills}>iOS / Android apps →</a>
+        <p style={text_skills}>Full Stack Developement</p>
+        <p style={text_skills}>iOS / Android apps</p>
       </div>
       <h2 style={text_about_me_header}>About Me</h2>
       <p style={text_about_me}>Hello, I'm Olli, a long time software hobbyist and a second year software engineering student.

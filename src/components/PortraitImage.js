@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import portrait_como from "../images/portrait_como.jpeg";
 const PortraitImage = () => {
   return (

@@ -10,6 +10,7 @@ const PortraitImage = () => {
 
 
 const image_portrait = {
-  height: 300
+  height: 300,
+  marginRight: 48
 }
 export default PortraitImage;

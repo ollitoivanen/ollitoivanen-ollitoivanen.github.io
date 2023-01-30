@@ -5,7 +5,7 @@ export const ABOUT_ME = "About Me";
 export const BUILDING_THINGS = "Building things that are a joy to use.";
 
 export const ABOUT_ME_PARAGRAPH_1 =
-  "Hello, I'm Olli, a long time software developer and a second year software engineering student. I've been building my own apps and websites since 2017 and have gathered solid experience with managing projects from start to deployment. My strengths include building Full-Stack apps with React and React Native, designing intuitive user interfaces and efficiently turning ideas to usable products.";
+  "Hello, I'm Olli, a long time software developer and a second year software engineering student. I've been building my own apps and websites since 2017 and have gathered solid experience with managing projects from start to deployment. My strengths include building Full-Stack apps with React and React Native, designing intuitive user interfaces and efficiently turning ideas into usable products.";
 
 export const ABOUT_ME_PARAGRAPH_2 =
   " My journey started when I discoverd a problem as a footballer that I wanted to solve. Playing competetively meant that I wanted to train on my own time. However, there wasn't a way to know if there was any space on the field to train. So I started building an app to solve this, first with Java, then with React Native. With no background to software engineering the learning curve felt impossibly deep but with patience and lots of googling, I learned everything needed to build an app with authentication, a database and user interaction.";

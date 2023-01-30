@@ -22,12 +22,14 @@ const skills = [
 
 const IndexPage = () => {
   return (
-    <main className="p-12">
+    <main className="">
       <Header />
-      <div className="flex">
+      <div className="flex flex-col">
         <PortraitImage />
-        <div className="w-2/3 ml-8 mt-4">
-          <h1 className="font-arvo text-2xl mb-4">{BUILDING_THINGS}</h1>
+        <div className="px-4 mt-4">
+          <h1 className="font-arvo text-xl lg:text-2xl mb-4">
+            {BUILDING_THINGS}
+          </h1>
           <p className="font-poppins text-gray-800">{ABOUT_ME_PARAGRAPH_1}</p>
           <br />
           <p className="font-poppins text-gray-800">{ABOUT_ME_PARAGRAPH_2}</p>

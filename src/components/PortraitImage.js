@@ -1,15 +1,7 @@
 import React from "react";
-import portrait_como from "../images/portrait_como.jpg";
+import portrait_como from "../../static/images/portrait_como.jpg";
 const PortraitImage = () => {
-  return (
-    <div>
-      <img className="w-1/3" src={portrait_como}></img>
-    </div>
-  );
+  return <img className="flex w-1/3" src={portrait_como}></img>;
 };
 
-const image_portrait = {
-  height: 300,
-  marginRight: 48,
-};
 export default PortraitImage;

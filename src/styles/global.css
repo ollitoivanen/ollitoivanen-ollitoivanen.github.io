@@ -2,6 +2,10 @@
   font-family: "Arvo Regular";
   src: url(/fonts/arvo-regular.woff2) format("woff2");
 }
+@font-face {
+  font-family: "Poppins Regular";
+  src: url(/fonts/poppins-regular.woff2) format("woff2");
+}
 
 @tailwind base;
 @tailwind components;

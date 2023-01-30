@@ -4,6 +4,7 @@ module.exports = {
   theme: {
     fontFamily: {
       arvo: ["Arvo Regular"],
+      poppins: ["Poppins Regular"],
     },
   },
   plugins: [],

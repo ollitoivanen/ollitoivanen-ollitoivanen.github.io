@@ -1,5 +1,5 @@
 import React from "react";
-import portrait_como from "../images/portrait_como.jpeg";
+import portrait_como from "../images/portrait_como.jpg";
 const PortraitImage = () => {
   return (
     <div>
